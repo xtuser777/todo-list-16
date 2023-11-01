@@ -11,5 +11,5 @@ import { TodoCardComponent } from './components/todo-card/todo-card.component';
   styleUrls: []
 })
 export class AppComponent {
-  title = 'todo-list-16';
+  title = 'To-do List';
 }
